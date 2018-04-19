@@ -2,4 +2,3 @@
 
 * Joker
 * Pingüino
-* Megamente
