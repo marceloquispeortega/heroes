@@ -6,3 +6,4 @@
 * Aquaman
 * Mujer Maravilla
 * Spiderman
+* Megamente
